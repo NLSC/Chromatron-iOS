@@ -1,0 +1,108 @@
+{
+    "version": "1.0",
+    "format": [
+        "type",
+        "angle",
+        "color",
+        "x",
+        "y"
+    ],
+    "list": [
+        {
+            "level": 1,
+            "placed": "LARCHTARIM",
+            "available": [
+                {
+                    "type": "R",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "level": 2,
+            "placed": "LARDGLEBMITABHFTARII",
+            "available": [
+                {
+                    "type": "R",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "level": 3,
+            "placed": "LHBALLBGDALERODTAPHGTAYHKTACJI",
+            "available": [
+                {
+                    "type": "R",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "level": 4,
+            "placed": "LAGBHTAGEKTAGGDTAGGJTAGIKTAGJL",
+            "available": [
+                {
+                    "type": "S",
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "level": 5,
+            "placed": "LARBILAGBGTAYHDTAYMH",
+            "available": [
+                {
+                    "type": "R",
+                    "count": 2
+                }, {
+                    "type": "S",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "level": 6,
+            "placed": "LARBGLEBNITAREKTARHMTARKKTAPHHTABEETABHCTABKE",
+            "available": [
+                {
+                    "type": "S",
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "level": 7,
+            "placed": "LGRDNLGBKNTABEJTABHLTARFETARLK",
+            "available": [{
+                "type": "B",
+                "count": 3
+            }]
+        },
+        {
+            "level": 8,
+            "placed": "LABDDTABCFTABEJTABML",
+            "available": [{
+                "type": "S",
+                "count": 2
+            }, {
+                "type": "B",
+                "count": 1
+            }]
+        },
+        {
+            "level": 9,
+            "placed": "LCGAACDABACDABBCDABCCDABDCDABECDABFCDABGCDABHCDABICDABJCDABKCDABLCDABMCDABNCDABOCDAEACDAEBCDAECCDAEDCDAEECDAEFCDAEGCDAEHCDAEICDAEJCDAEKCDAELCDAEMCDAENCDAEOCDAKACDAKBCDAKCCDAKDCDAKECDAKFCDAKGCDAKHCDAKICDAKJCDAKKCDAKLCDAKMCDAKNCDAKOCDANACDANBCDANCCDANDCDANECDANFCDANGCDANHCDANICDANJCDANKCDANLCDANMCDANNCDANOTAGCDTAGGJTAGMLTAGMB",
+            "available": [{
+                "type": "B",
+                "count": 1
+            }, {
+                "type": "S",
+                "count": 2
+            }, {
+                "type": "R",
+                "count": 3
+            }]
+        },
+    ]
+}
